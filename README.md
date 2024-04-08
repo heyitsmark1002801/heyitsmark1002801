@@ -1,7 +1,28 @@
 <h1 align="center">Hi 👋, I'm Mark S.</h1>
 <h3 align="center">I am a Computer Science Student with a love for Robotics and Data Science</h3>
 
-- 🔭 I’m currently working on **Wingman**
+## My Machine Learning 📁
+
+Dive into my journey of exploration and innovation through my projects. Each one is a step towards unraveling the complexities of machine learning and its application in solving real-world problems.
+
+### TextClusterFlow 📊
+
+**Public Repository** | [[View Project](https://github.com/heyitsmark1002801/TextClusterFlow)](#)
+
+Dive into the realm of Natural Language Processing with TextClusterFlow, a project where text isn't just read—it's understood and organized. By employing sophisticated NLP techniques such as tokenization, stemming, lemmatization, and TF-IDF vectorization, this project goes beyond mere word counting. It intelligently clusters sentences, uncovering patterns and insights hidden within the text. Last updated: 14 minutes ago.
+
+### Heart-Disease-Prediction Using Machine Learning ❤️
+
+**Public Repository** | [https://github.com/heyitsmark1002801/Heart-Disease-Prediction-Using-Machine-Learning](#)
+
+At the intersection of health and technology, this project stands as a beacon of hope. Utilizing machine learning algorithms, it doesn't just analyze data; it seeks to predict the presence of heart disease in patients. By harnessing the power of Jupyter Notebook for data analysis and visualization, it offers a glimpse into the future of preventive healthcare. Last updated: 26 minutes ago.
+
+### Logical Functions with MLP Classifier 🧠
+
+**Public Repository** | [https://github.com/heyitsmark1002801/Logical-functions-with-MLP-Classifier](#)
+
+Explore the foundational elements of artificial intelligence with a project that simplifies complexity. Logical Functions with MLP Classifier takes you on a deep dive into the world of machine learning, where simple logical functions are modeled and solved using the Multi-layer Perceptron (MLP) classifier. This project is a testament to how fundamental principles can be applied to achieve understanding and predict outcomes in a controlled setting.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
